@@ -10,7 +10,7 @@ public class Main {
 		FatControll fatorial = new FatControll(); //controlador do fat
 		
 		
-		System.out.println(fatorial.fat(12)); //aplicacao do valor de entrada
+		System.out.println(fatorial.fat(5)); //aplicacao do valor de entrada
 		
 	}
 	
